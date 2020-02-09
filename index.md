@@ -1,15 +1,15 @@
 # Adam Rothenbuhler
 
-##Resume
+## Resume
 
-##Product Proficiencies
+## Product Proficiencies
 Microsoft SQL Optimization | Microsoft Server 2008R2/2012/2012R2 | VMWare ESXi
 Microsoft Exchange 2007/2010/2013 | SQL (Microsoft and Sybase) | Crystal Reports
 Firewalls (SonicWALL, WatchGuard) | Microsoft Server Migration | Backup – Acronis, Symantec
 Networking/Switching/Routing/VLAN | PCI Compliancy | Microsoft 365 Suite and Migration
 Active Directory/Group Policies | Wireless networking/Security | Enterprise Antivirus
 
-##Relevant Employment History
+## Relevant Employment History
 	
 **Systems Manager – DXC Technologies**
 October 2018 – Present
