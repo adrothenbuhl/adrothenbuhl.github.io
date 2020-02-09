@@ -1,37 +1,81 @@
-## Welcome to GitHub Pages
+# Adam Rothenbuhler
 
-You can use the [editor on GitHub](https://github.com/adrothenbuhl/adrothenbuhl.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##Resume
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Product Proficiencies
+Microsoft SQL Optimization | Microsoft Server 2008R2/2012/2012R2 | VMWare ESXi
+Microsoft Exchange 2007/2010/2013 | SQL (Microsoft and Sybase) | Crystal Reports
+Firewalls (SonicWALL, WatchGuard) | Microsoft Server Migration | Backup – Acronis, Symantec
+Networking/Switching/Routing/VLAN | PCI Compliancy | Microsoft 365 Suite and Migration
+Active Directory/Group Policies | Wireless networking/Security | Enterprise Antivirus
 
-### Markdown
+##Relevant Employment History
+	
+**Systems Manager – DXC Technologies**
+October 2018 – Present
+* Mange five environments from Development to Production
+* Ensure SLA performance with the State of Idaho on a monthly basis
+* Measure and Optimize SQL performance
+* Monitor VM Host and Guest resources
+* Manage projects on a technical basis
+* Ensure 99.9% system uptime and reliability
+* Allocate proper application security for end users
+* Perform annual SOC 1 audits, and semiannual entitlement reviews for business applications.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Technical Services Manager – Molina Healthcare** 
+August 2015 – October 2018
+* Mange five environments from Development to Production
+* Ensure SLA performance with the State of Idaho on a monthly basis
+* Measure and Optimize SQL performance
+* Monitor VM Host and Guest resources
+* Manage projects on a technical basis
+* Ensure 99.9% system uptime and reliability
+* Allocate proper application security for end users
+* Perform annual SOC 1 audits, and semiannual entitlement reviews for business applications.
 
-```markdown
-Syntax highlighted code block
+**Lead Engineer – Corporate Technologies**
+January 2014 – August 2015
+* Evaluate Customer needs, and design/implement systems accordingly
+* Design/implement Virtual environments
+* Network Design and implantation
+* Day to day break/fix on customer hardware, software, networks
+* Server Migrations – Planning and execution
+* Software installation/maintenance
 
-# Header 1
-## Header 2
-### Header 3
+**Service Manager – Spark Solutions Group**
+September 2013 – January 2014
+* All responsibilities described as Senior Implementation Specialist listed below
+* Responsible for Technician scheduling using Basecamp, as well as Google Calendar
+* Aided in Sales presentations, as well as R&D for proof of concepts
+* Train technicians
 
-- Bulleted
-- List
+**IT Manager – DirectPOS**
+ March 2010 – September 2013
+* All responsibilities described as Senior Implementation Specialist listed below
+* Responsible for all Technicians from multiple offices spanning seven different products.
+* Manage, review, and evaluate projects using data collected and compiled into readable data using Crystal Reports
+* Responsible for inventory analysis, ordering, and stock levels across multiple locations
+* Interview, hire, and train new technicians
+* Maintain internal network between multiple offsite offices, and headquarter office
+* Maintain internal phone system
+* Maintain and implement internal Domain Controller, Exchange Server, SQL server, Tigerpaw CRM, FTP, VPN, Backups
+* Aided in Sales presentations, as well as R&D for proof of concepts.
 
-1. Numbered
-2. List
+**Senior Implementation Specialist – DirectPOS**
+October 2007 – March 2010
+* Design, program, install, and maintain MICROS RES, MICROS e7, and Aldelo point-of-sale systems
+* Diagnose and repair a wide variety of hardware, including servers, desktop PC’s, printers, UPS units, and POS terminals
+* Responsible for building pc’s to custom specifications both for internal inventory and special customer orders
+* Responsible for staging, installation, diagnosis, and maintenance of internal company systems
+* Maintain POS databases with basic SQL commands and queries
+* Designing and modifying custom Crystal Reports to meet specific customer needs
+* Train new customers on their system
 
-**Bold** and _Italic_ and `Code` text
+**IT Manager – Boise POS Solutions**
+January 2004 – October 2007
+* Design, program, install, and maintain Aloha point-of-sale systems
+* Diagnose and repair a wide variety of hardware, including servers, desktop PC’s, printers, UPS units, and POS terminals
+* Responsible for building pc’s to custom specifications both for internal inventory and special customer orders
+* Responsible for staging, installation, diagnosis, and maintenance of internal company systems
+* Train new customers on their system
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adrothenbuhl/adrothenbuhl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
