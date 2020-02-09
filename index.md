@@ -1,7 +1,5 @@
 # Adam Rothenbuhler
 
-## Resume
-
 ## Product Proficiencies
  1 | 2 | 3
 ------------ | ------------- | -------------
