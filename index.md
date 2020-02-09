@@ -3,6 +3,8 @@
 ## Resume
 
 ## Product Proficiencies
+ 1 | 2 | 3
+------------ | ------------- | -------------
 Microsoft SQL Optimization | Microsoft Server 2008R2/2012/2012R2 | VMWare ESXi
 Microsoft Exchange 2007/2010/2013 | SQL (Microsoft and Sybase) | Crystal Reports
 Firewalls (SonicWALL, WatchGuard) | Microsoft Server Migration | Backup – Acronis, Symantec
